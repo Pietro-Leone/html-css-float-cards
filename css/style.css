@@ -41,10 +41,8 @@ h1{
 }
 
 .card{
-    /* width: 370px; */
     height: 100px;
     background-color: black;
-    /* margin: 15px; */
     box-shadow: 1px 1px 18px black;
 }
 
